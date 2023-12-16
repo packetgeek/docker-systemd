@@ -8,4 +8,4 @@ If you want to use the image for something other than Docker and OpenVirtualSwit
 * edit the build-image script and change "did" to something better for your image name
 * edit the build-container script and change both instances of "did" to something better (the second "did" must match your image name)
 
-I've also included two short Bash scripts, one to build the image and one to create a container from that image.
+I've also included two short Bash scripts, one to build the image and one to create a container from that image.  Review them to view the Docker commands.
